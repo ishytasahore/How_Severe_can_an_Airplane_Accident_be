@@ -5,5 +5,5 @@
 
   Data:
   The dataset comprises 3 files: 
-  Train.csv: [10000 x 12 excluding the headers] contains Training data
-  Test.csv: [2500 x 11 excluding the headers] contains Test data
+    Train.csv: [10000 x 12 excluding the headers] contains Training data
+    Test.csv: [2500 x 11 excluding the headers] contains Test data
